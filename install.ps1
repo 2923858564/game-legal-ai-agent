@@ -109,7 +109,7 @@ if ($allPass) {
     Write-Host "在项目目录下启动 Claude Code 即可自动加载全部法务能力。" -ForegroundColor Cyan
     Write-Host ""
     Write-Host "启动命令：" -ForegroundColor White
-    Write-Host "  cd D:\AI" -ForegroundColor Gray
+    Write-Host "  cd game-legal-ai-agent" -ForegroundColor Gray
     Write-Host "  claude" -ForegroundColor Gray
 } else {
     Write-Host "=== ⚠️ 部分文件安装异常，请检查包完整性 ===" -ForegroundColor Yellow
