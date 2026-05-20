@@ -1,0 +1,5 @@
+- [合同审核经验教训](feedback_contract_review_errors.md) — OCR识别结果需交叉验证、法条引用必须附原文
+- [合同审核默认用逐条分析法](feedback_contract_review_method.md) — 默认按条款顺序逐条分析，三观四步法仅在用户明确要求时使用
+- [合同条款按业务场景组织](feedback_contract_clause_structure.md) — 起草合同时"一个业务场景=一条"，不按法律概念拆分同一场景
+- [合同审核与法律分析工作](project_contract_legal_work.md) — CPS推广协议审核、工伤劳动法分析、扫描件OCR处理
+- [AI管培生法务智能体项目](project_resume_portfolio.md) — 传奇游戏公司法务智能体项目的完整记录，含架构/技术栈/交付物/成果数据
